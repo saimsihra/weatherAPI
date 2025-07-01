@@ -6,12 +6,6 @@ A simple weather application that lets users check real-time weather information
 
 ---
 
-## 📸 Preview
-
-![Weather App Screenshot](https://github.com/saimsihra/weatherAPI/assets/preview.png) <!-- Optional: Replace with actual screenshot path -->
-
----
-
 ## 🛠️ Features
 
 - Get weather by city name 🏙️
