@@ -28,13 +28,3 @@ A simple weather application that lets users check real-time weather information
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api)
 
 ---
-
-## 🖥️ Local Setup
-
-> ⚠️ Make sure you have **Node.js** and **npm** installed.
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/saimsihra/weatherAPI.git
-cd weatherAPI
