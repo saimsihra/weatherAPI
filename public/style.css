@@ -1,0 +1,19 @@
+.card-weather{
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.weatherinfo-div{
+    padding: 120px;
+    background-image: url("https://media.istockphoto.com/id/1007768414/photo/blue-sky-with-bright-sun-and-clouds.jpg?s=612x612&w=0&k=20&c=MGd2-v42lNF7Ie6TtsYoKnohdCfOPFSPQt5XOz4uOy4=");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.cardw:hover{
+        transform: translateY(-10px);
+        transition: all 0.3s ease;
+}
